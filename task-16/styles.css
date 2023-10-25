@@ -1,0 +1,32 @@
+html,body{
+    height: 100%;
+}
+.basis{
+    display: flex;
+    align-items: flex-start;
+    height: 100%;
+}
+.frog{
+    width: 100px;
+    height: 100px;
+    background: green;
+}
+.frog1{
+    width: 100px;
+    height: 100px;
+    background: green;
+}.frog2{
+     align-self: flex-end;
+     width: 100px;
+     height: 100px;
+     background: yellow;
+ }.frog3{
+      width: 100px;
+      height: 100px;
+      background: green;
+  }
+.frog4{
+    width: 100px;
+    height: 100px;
+    background: green;
+}

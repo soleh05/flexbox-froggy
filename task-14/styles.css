@@ -1,0 +1,15 @@
+.basis{
+    display: flex;
+}
+.frog{
+    width: 100px;
+    height: 100px;
+    background: green;
+}
+.frog1{
+    background: yellow;
+    order: 1;
+}
+.frog2{
+    background: crimson;
+}

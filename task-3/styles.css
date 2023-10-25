@@ -1,0 +1,18 @@
+.basis {
+    display: flex;
+    justify-content: space-around;
+}
+
+.frog {
+    width: 100px;
+    height: 100px;
+    background: green;
+}
+
+.frog1 {
+    background: yellow;
+}
+
+.frog2 {
+    background: crimson;
+}

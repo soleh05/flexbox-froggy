@@ -1,0 +1,17 @@
+.basis{
+    display: flex;
+flex-direction: row-reverse;
+}
+.frog{
+    width: 100px;
+    height: 100px;
+    background: green;
+}
+.frog1{
+    width: 100px;
+    height: 100px;
+    background: yellow;
+}
+.frog2{
+    background: crimson;
+}

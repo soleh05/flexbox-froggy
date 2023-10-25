@@ -1,0 +1,10 @@
+.basis {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.frog {
+    width: 100px;
+    height: 100px;
+    background: green;
+}

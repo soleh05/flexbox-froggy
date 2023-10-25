@@ -1,0 +1,27 @@
+.basis{
+    display: flex;
+}
+.frog{
+    width: 100px;
+    height: 100px;
+    background: green;
+}
+.frog1{
+    width: 100px;
+    height: 100px;
+    background: green;
+}.frog2{
+     width: 100px;
+     height: 100px;
+     background: green;
+ }.frog3{
+      width: 100px;
+      height: 100px;
+      background: green;
+  }
+.frog4{
+    width: 100px;
+    height: 100px;
+    background: red;
+    order: -1;
+}
